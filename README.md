@@ -63,6 +63,6 @@ CodSoft-DataScience-Internship/
 
 ## Author
 
-Sankeerthana Reddy
+Gopu Sankeerthana 
 
 CodSoft Data Science Intern
