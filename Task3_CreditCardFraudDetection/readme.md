@@ -67,9 +67,7 @@ F1-Score: 81.48%
 ## Project Structure
 Task3_CreditCardFraudDetection/
 ├── task3_CreditCardFraudDetection.ipynb
-
 ├── readme.md
-
 ├── .gitignore
 
 ## How to Run
@@ -79,13 +77,6 @@ pip install pandas numpy scikit-learn
 3. Place `creditcard.csv` in the project folder.
 4. Open and run:
 task3_CreditCardFraudDetection.ipynb
-
-## Future Improvements
-* Random Forest Classifier
-* XGBoost Classifier
-* SMOTE for class imbalance handling
-* Hyperparameter tuning
-* Model deployment using Streamlit
 
 ## Conclusion
 This project demonstrates how Machine Learning can be used to identify fraudulent credit card transactions. The trained model helps detect suspicious activities and can assist financial institutions in reducing financial fraud.
