@@ -87,6 +87,7 @@ Tools and Libraries
 
 Repository Structure
 CodSoft-DataScience-Internship/
+
 │
 ├── Task1_Titanic_survival/
 │   ├── Titanic-Dataset.csv
